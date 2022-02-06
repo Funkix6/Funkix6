@@ -17,5 +17,6 @@
   - Fullstack Monitoring Tools (Maybe Dynatrace?)
   - AWS
   - Authy (2FA Tokenized Authentication System)
+  - Firebase
   
 I am willing to participate in Open Source project.
