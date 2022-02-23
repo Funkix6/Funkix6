@@ -7,7 +7,7 @@
 
 ## List of stuff I want to learn/Get more involved in :
   - Python Programming
-  - JavaScript Programming (Using React-Redux, Node.js and Express)
+  - JavaScript Programming (React, Node etc...)
   - Solidity Language (Ethereum Blockchain language)
   - Docker & DockerCompose
   - Kubernetes
