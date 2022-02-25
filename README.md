@@ -18,5 +18,7 @@
   - AWS
   - Authy (2FA Tokenized Authentication System)
   - Firebase
+  - Redis
+  - Next.js
   
 I am willing to participate in Open Source project.
